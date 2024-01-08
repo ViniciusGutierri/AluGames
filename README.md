@@ -1,7 +1,7 @@
 <h1>AluGames</h1>
 
 <h2>📃 Sobre</h2>
-<p>Projeto desenvolvido durante a Formação de Lógica de Programação da Alura.</p>
+<p>Projeto de um simples aluguel de boardgames desenvolvido durante a Formação de Lógica de Programação da Alura, apenas para reforçar os conceitos ensinados.</p>
 
 ## 🚀 Tecnologias
 
